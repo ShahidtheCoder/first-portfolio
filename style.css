@@ -42,6 +42,11 @@ body p{
     border-radius: 5px;
     color:white;
 }
+.experience-area{
+    background-image:url("images/exp-bg.png")
+    background-repeat: no-repeat;
+    background-position: :left;
+}
 .experience-area h2{
     font-size: 45px;
 }
@@ -63,4 +68,7 @@ body p{
     border-left: 7px solid;
     border-image-slice: 1;
     border-image: linear-gradient(180deg blue, cyan);
+}
+footer{
+    align:center;
 }
